@@ -1,0 +1,4 @@
+APP_FONT = ("Arial", 12)
+BG_COLOR = "#f5f5f5"
+BTN_COLOR = "#2196F3"
+TEXT_COLOR = "#212121"

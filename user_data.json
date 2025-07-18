@@ -1,0 +1,18 @@
+{
+    "user@example.com": {
+        "name": "John Doe",
+        "password": "password123"
+    },
+    "alice@example.com": {
+        "name": "Alice Johnson",
+        "password": "securePassword456"
+    },
+    "syedahmadali152@gmail.com": {
+        "name": "Ahmad",
+        "password": "Ahmad@112"
+    },
+    "afifa123@gmail.com": {
+        "name": "Afifa",
+        "password": "Ahmad@112"
+    }
+}
